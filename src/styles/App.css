@@ -21,8 +21,9 @@ aside {
 	min-width: 240px;
 }
 
-/* section.page {
-} */
+section.page {
+	flex-grow: 1;
+}
 
 footer {
 	background-color: #000000;
@@ -30,4 +31,5 @@ footer {
 	padding: 10px 0;
 	text-align: center;
 	text-transform: uppercase;
+	margin-bottom: 50px;
 }
